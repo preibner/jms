@@ -10,5 +10,6 @@
   	<module>../library</module>
   	<module>../users</module>
   	<module>../web</module>
+  	<module>../tcp_util</module>
   </modules>
 </project>
